@@ -1,0 +1,1 @@
+Fichero README del proyecto RANDOM con el cual se obtiene un número aleatorio.

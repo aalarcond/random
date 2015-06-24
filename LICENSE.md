@@ -1,0 +1,1 @@
+Fichero de la típica licencia que todo el mundo acepta sin leer.
